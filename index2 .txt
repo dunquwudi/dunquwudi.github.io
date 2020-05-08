@@ -1,0 +1,128 @@
+<html>
+<title>遁去无敌制作</title>
+<head>
+<style>
+#top {
+    color:black;
+    text-align:center;
+    padding:10px;
+    height:30%;
+}
+#left {
+    line-height:30px;
+    background-color:#7FFFD4;
+    height:60%;
+    width:200px;
+    float:left;
+    padding:10px; 
+}
+#right{
+    line-height:30px;
+    color:red;
+    background-color:#7FFFD4;
+    height:60%;
+    width:200px;
+    float:right;
+    padding:10px; 
+}
+#body {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+#footer {
+    color:blue;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+    height:5%;
+}
+#hide {
+  z-Index:2;
+  background-color:white;
+  width:1000%;
+  heoght:1000%;
+
+}
+</style>
+<script language="javascript">
+function load(){
+var s;
+s=window.Prompt("请输入ID")
+
+}
+</script>
+</head>
+<body background="bg.gif" onload=load()>
+
+<div id="top">
+<h1>
+<img src="page_head.jpg">
+</h1>
+</div>
+
+<div id="left">
+<a href="http://www.4399.com/flash/78072.htm" target="_blank "><img src="开始.png" width="200"  ></a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://news.4399.com/gonglue/zmxy3/jn/133503.html" target="_blank "><img src="唐僧.png")"></a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://news.4399.com/gonglue/zmxy3/jn/133500.html" target="_blank "><img src="悟空.png"></a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://news.4399.com/gonglue/zmxy3/jn/133504.html" target="_blank "><img src="八戒.png"></a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://news.4399.com/gonglue/zmxy3/jn/133506.html" target="_blank "><img src="沙僧.png"></a><br>
+</div>
+<div id="right">
+<p color=red><h2>&nbsp;&nbsp;&nbsp;造梦再出新品！</p>
+<a href ="http://huodong2.4399.com/2020/zmxyonline/" target="_blank"><img src="online.png" width="200"></a><br>
+<p><h2>遁去的一online联盟预招！！</p>
+<a href ="http://my.4399.com/forums/thread-60894217" target="_blank"><img src="遁去的一.jpeg" width="200"></a>
+</div>
+<div id="body">
+<table width=270% border=2>
+<tr  bordercolor="red">
+<td width=50%><h2>通关攻略
+<br><a href="http://news.4399.com/gonglue/zmxy3/wenda/211317.html" target="_blank">角色怎么升级到90级</a>
+<br><a href="http://news.4399.com/gonglue/zmxy3/miji/211261.html" target="_blank">昆仑山追缉任务 追查杨戬任务怎么做</a>
+<br><a href="http://news.4399.com/gonglue/zmxy3/miji/469853.html" target="_blank">昆仑山十二生肖邪寅虎副本攻略</a>
+<br><a href="http://news.4399.com/gonglue/zmxy3/miji/415975.html" target="_blank">昆仑山通缉黑衣人任务攻略
+<br><a href="" target="_blank">
+<br><a href="" target="_blank">
+<br><a href="" target="_blank">
+</td>
+<td><h2>宠物专区
+<br><a href="http://news.4399.com/gonglue/zmxy3/chongwu/189575.html" target="_blank">宠物技能大全</a>
+<br><a href="http://news.4399.com/gonglue/zmxy3/miji/182276.html" target="_blank">宠物快速升级攻略 几级进化</a>
+<br><a href="http://news.4399.com/gonglue/zmxy3/miji/175714.html" target="_blank">宠物培养系统 宠物怎么培养</a>
+<br><a href="http://news.4399.com/gonglue/zmxy3/miji/135682.html" target="_blank">宠物属性</a>
+<br><a href="http://news.4399.com/gonglue/zmxy3/miji/135673.html" target="_blank">宠物怎么抓</a>
+<br><a href="" target="_blank">
+<br><a href="" target="_blank">
+</td>
+</tr>
+<td><h2>视频专区
+<br><a href="https://www.bilibili.com/video/BV1wz411873Y" target="_blank">夙情-造三</a>
+<br><a href="https://www.bilibili.com/video/BV1eE411p7QY" target="_blank">夙情-online</a>
+<br><a href="https://www.bilibili.com/video/BV1eE411x7qP" target="_blank">夙情说封测</a>
+<br><a href="http://v.4399pk.com/zmxy3/video_251974.htm" target="_blank">四角色过琵琶精</a>
+<br><a href="" target="_blank">
+<br><a href="" target="_blank">
+<br><a href="" target="_blank">
+</td>
+<td><h2>遁去专区
+<br><a href="http://my.4399.com/zmlm/" target="_blank" >贡献网址</a>
+<br><a href="http://my.4399.com/forums/thread-60742690?keyword=%E9%81%81%E5%8E%BB%E7%9A%84%E4%B8%80&tagidToken=80615#search_2" target="_blank">遁去的一 强势收人</a>
+<br><a href="http://my.4399.com/forums/thread-60894217" target="_blank">遁去的一online 收人</a>
+<br><a href="" target="_blank">
+<br><a href="" target="_blank">
+<br><a href="" target="_blank">
+<br><a href="" target="_blank">
+</td>
+</tr>
+
+
+</table>
+</div>
+
+<div id="footer">
+遁去无敌制作！本网站仅供学习交流使用！！
+</div>
+
+</body>
+</html>
