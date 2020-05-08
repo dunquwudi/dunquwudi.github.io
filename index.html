@@ -1,10 +1,11 @@
 <html>
 <title>遁去无敌</title>
 <head>
-<meta charset="UTF-8">
+
+<meta http-equiv="refresh" content="6">
 <style>
 #top {
-    color:black;
+    color:red;
     text-align:center;
     padding:10px;
     height:30%;
@@ -27,6 +28,7 @@
     padding:0px; 
 }
 #body {
+ 
     width:71%;
     float:left;
     padding:0.5%; 
@@ -49,11 +51,26 @@
 </style>
 </head>
 <body background="bg.gif" >
-
 <div id="top">
-<h1>
-<img src="page_head.jpg">
-</h1>
+<script language="JavaScript">
+var now =new Date();
+var year= now.getFullYear();
+var month=now.getMonth()+1;
+var day=now.getDay();
+var second=now.getSeconds();
+var Year=year-2011;
+var Month=month-4;
+var i=second%5+1;
+ if(Month<0)
+ {
+   Month=Month+12;Year=Year-1;
+ }
+if(Month==0)
+{document.write("现在是"+year+"年"+month+"月"+day+"日<br/>"+"造梦到今天已经走过"+Year+"周年");}
+else
+{document.write("现在是"+year+"年"+month+"月"+day+"日<br/>"+"造梦到今天已经走过"+Year+"年"+Month+"月");}
+document.write("<br/><IMG src=head"+i+".jpg height=80% width=70%>");
+</script>
 </div>
 
 <div id="left">
@@ -118,7 +135,6 @@
 </div>
 
 <div id="footer">
-
 遁去无敌制作！本网站仅供学习交流使用！！
 </div>
 
