@@ -1,0 +1,288 @@
+@charset "utf-8";
+*{margin: 0px;
+ padding: 0px;}
+
+.logo{
+width: 100%;        
+height: 250px;
+background: #BBDFEF;
+background: cover;
+}
+
+.logo-t{
+	width: 100px;
+	height: 50px;
+	padding: 25px;
+	float: left;
+}
+
+.HUST{
+    height: 50px;
+	padding: 25px;
+	float: right;
+}
+
+.ke{
+    margin: 0 auto;
+    position: absolute;
+    left: 20%;	
+}
+
+/***************************************************这是导航栏的注释*************************************************/
+
+.dao{
+	width: 100%;
+	height: 50px;
+	background: #70B7B4;
+}
+.cai{
+	width: 750px;
+	height: 50px;
+	margin: 0 auto;
+	list-style-type: none;
+}
+
+.cai-x{
+	float: left;
+	width: 150px;
+	line-height: 50px;
+	text-align: center;
+	font-family: actor;
+	font-size: 25px;
+	font-weight: 600;
+	
+}
+
+.cai-x:hover{
+	background:#A0D9F2;
+}
+
+/*******************************************弹窗的注释**********************************************/
+.cai-x:hover .tan1{
+	display: block;
+}
+
+.cai-x:hover .tan2{
+	display: block;
+}
+
+
+
+.cai-x .tan1{
+	width: 150px;
+	height: 170px;
+	box-shadow: 0px 5px 10px #888888;
+	display: none;
+	opacity: 0.8;
+}
+
+.cai-x .tan2{
+	width: 150px;
+	height: 85px;
+	box-shadow: 0px 5px 10px #888888;
+	display: none;
+	opacity: 0.8;
+}
+
+.cai-x .tan1 .tan11{
+	width: 150px;
+	font-size: 18px;
+	line-height: 40px;
+	list-style-type: none;
+	padding: 5px 0;
+}
+
+.cai-x .tan2 .tan22{
+	width: 150px;
+	font-size: 18px;
+	line-height: 40px;
+	list-style-type: none;
+	padding: 5px 0;
+}
+
+.cai-x .tan1 .tan11 .tan0:hover{
+	background-color: #70B7B4;
+}
+
+.cai-x .tan2 .tan22 .tan0:hover{
+	background-color: #70B7B4;
+}
+
+/*******************************************主页的注释**********************************************/
+
+.main{
+	height: 2200px;
+	width: 100%;
+	background:#E4F2F8;
+}
+
+.lan{
+    position: absolute;
+	top: 300px;
+	text-align: center;
+	width: 100%;
+    height: 235px; 
+	z-index: 0;
+}
+
+.main .cb{
+    width: 200px;
+    height: 2200px;
+    background: #4AA8D0;
+    position: absolute;
+    float: left;
+    left: -2px;
+}
+
+.lm{
+    width: 160px;
+    height: 200px;
+    margin: 0 20px;
+    background: #94CBE3;
+    position: fixed;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.lmc{
+    height: 40px;
+    width: 160px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+    list-style-type: none;	
+}
+.lmc1{
+	width: 160px;
+	height:40px;
+	line-height: 40px;
+	text-align: center;
+}	
+
+.lmc1:hover{
+	background-color:#A0D9F2;
+}
+
+.zy{
+    width: 900px;
+	height: 2000px;
+    float: right;
+    top: 170px;
+    left: 160px;
+
+}
+
+.ds{
+    position: absolute;
+    left: 300px;
+    top: 520px;
+    background: #96CCE3;
+    box-shadow: 0px 5px 10px #888888;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+	
+.dstp{
+    position: relative;
+    margin: 0 auto;
+    height: 600px;
+    width: 800px;
+    box-shadow: 0px 5px 10px #888888;
+    padding-top: 20px;
+    padding-left: 25px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+}
+
+.bgtp{
+    width: 370px;
+    height: 265px;
+    box-shadow: 0px 5px 5px #888888;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: #ADD5D4;
+    text-align: center;
+    padding-top: 10px;	
+}
+
+.dsjs{
+	width: 800px;
+	position: relative;
+	left: 50px;
+}
+
+
+.zx{
+    position: absolute;
+    left: 300px;
+    top: 1520px;
+    background: #96CCE3;
+    box-shadow: 0px 5px 10px #888888;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+	
+.zxtp{
+    position: relative;
+    margin: 0 auto;
+    height: 600px;
+    width: 800px;
+    box-shadow: 0px 5px 10px #888888;
+    padding-top: 20px;
+    padding-left: 25px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+}
+
+.zxjs{
+	width: 800px;
+	position: relative;
+	left: 50px;
+}
+
+
+/*******************************************链接的注释**********************************************/
+
+a:link,a:visited{
+	color:#000000;
+	text-decoration: none;
+}
+a:hover{
+	color: aliceblue;
+}
+
+/******************************************以下是页脚的注释*************************************************/
+.foot{
+	height: 40px;
+	width: 100%;
+	background: #4AA8D0;
+}
+
+.foot ul{
+	width: 404px;
+	height: 40px;
+	margin: 0 auto;
+	border-left: 1px solid #000000;
+}
+
+.foot ul li{
+	float: left;
+	list-style-type: none;
+	width: 100px;
+	border-right: 1px solid #000000;
+	line-height: 40px;
+	text-align: center;
+}
+
+.bq{
+	width: 100%;
+	height: 100px;
+	background: #000000;
+	color: aliceblue;
+	text-align: center;
+	padding-top: 40px;
+}
